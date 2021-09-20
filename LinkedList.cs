@@ -1,4 +1,3 @@
-// @Author: Vladimir Solozano
 // Simple Linked List
 
 namespace Practice
